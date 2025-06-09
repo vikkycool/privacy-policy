@@ -1,0 +1,32 @@
+PRIVACY POLICY FOR TRUTH OR DARE: INNER QUEST CHROME EXTENSION
+=============================================================
+
+Last Updated: June 9, 2025
+
+Welcome to Truth or Dare: Inner Quest (the "Extension"). This Privacy Policy outlines our firm commitment to your privacy.
+
+1. NO DATA COLLECTION, STORAGE, OR TRANSMISSION
+---------------------------------------------
+Truth or Dare: Inner Quest is designed to operate entirely on your local computer and DOES NOT COLLECT, STORE, USE, SHARE, OR TRANSMIT ANY PERSONAL INFORMATION OR ANY OTHER USER DATA.
+
+- The Extension does not ask for, access, or track any of your personal details.
+- The Extension does not save your game progress, your choices, your answers, or any inputs you might make. Each time you use the Extension, it is a fresh session.
+- No data is sent from your computer to us (the developers) or to any third-party servers or services.
+- All operations and functionalities of the Extension are performed locally within your browser and are self-contained.
+
+2. HOW THE EXTENSION WORKS
+-------------------------
+The Extension provides "Truth or Dare" prompts for personal reflection and challenge. All interactions occur in real-time on your device and are not recorded or saved by the Extension beyond your current active session with it. Once you close the Extension or your browser, any state related to your interaction during that session is discarded.
+
+3. CHILDREN'S PRIVACY
+--------------------
+This Extension is not directed at individuals under the age of 13 (or the relevant age of consent in your jurisdiction). As we do not collect any data whatsoever, we do not knowingly collect personal information from children.
+
+4. CHANGES TO THIS PRIVACY POLICY
+--------------------------------
+We may update this Privacy Policy from time to time if necessary (for example, if the Extension's functionality changes in a way that would impact data handling, though this is not currently planned). Any changes will be reflected in an updated version of this policy, typically made available through the Extension's listing page on the Chrome Web Store.
+
+5. CONTACT US
+------------
+If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at:
+deremarservices@gmail.com
